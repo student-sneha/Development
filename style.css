@@ -6,7 +6,7 @@ body{
 }
 span{
     background: url(https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678087-heart-512.png);
-    width:100px;
+    width:100px;    
     height:100px;
     position: absolute;
     pointer-events:none;
